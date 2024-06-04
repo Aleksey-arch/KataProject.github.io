@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: "TT Lakes";
+  src: url(../src/font/TTLakes-Regular.ttf),
+  url(../src/font/TTLakesCompressed-Bold.ttf),
+  url(../src/font/TTLakesCompressed-Medium.ttf);
+}
+
