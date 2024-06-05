@@ -33,34 +33,6 @@ body {
     background-color: #eaeaea;
     border-radius: 1px;
 }
-
-.header__repair {}
-
-.header__check-status {}
-
-/* Main */
-.services__heading-wrapper {
-    display: flex;
-    margin-bottom: 24px;
-}
-
-.services__heading {
-    display: inline-block;
-    align-self: center;
-    text-align: start;
-    font-family: "TT Lakes";
-    font-size: 28px;
-    font-weight: 700;
-}
-
-.services__heading-decor-line {
-    background-color: #41F6D7;
-    width: 4px;
-    height: 40px;
-    margin-right: 12px;
-    border-radius: 0 5px 5px 0;
-}
-
 .header__decor-line--left {
     display: none;
 }
@@ -98,6 +70,32 @@ body {
 
 .header__profile {
     display: none;
+}
+
+
+/* Main */
+
+/*  Service  */
+.services__heading-wrapper {
+    display: flex;
+    margin-bottom: 24px;
+}
+
+.services__heading {
+    display: inline-block;
+    align-self: center;
+    text-align: start;
+    font-family: "TT Lakes";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.services__heading-decor-line {
+    background-color: #41F6D7;
+    width: 4px;
+    height: 40px;
+    margin-right: 12px;
+    border-radius: 0 5px 5px 0;
 }
 
 .desktop-menu {
